@@ -1,0 +1,124 @@
+@charset "utf-8";
+/* CSS Document */
+
+body{
+	background: #F59112;
+	
+	
+}
+
+header{
+	
+	
+}
+
+
+.header-div{
+	display: inline-block;
+	width: 10%;
+	height: 200px;
+	
+}
+
+
+
+
+nav{
+	display: inline-block;
+	background-color: olive;
+	width: 80%;
+	height: 100px;
+	margin-bottom: 20px;
+	position: relative;
+	top: -170px;
+	
+	
+	
+}
+
+li{
+	display: inline-block;
+	width: 32%;
+}
+
+.c1{
+	display: flex;
+	flex-direction: row;
+	justify-content: flex-start;
+	
+	
+}
+
+
+
+h1{
+	color: darkmagenta;
+	text-decoration: underline;
+	text-decoration-color: blueviolet; 
+	padding-left: 5%;
+	
+}
+
+h2{
+	color: darkmagenta;
+	text-decoration: underline;
+	text-decoration-color: blueviolet;
+	padding-left: 5%;
+}
+
+
+h3{
+	color: darkmagenta;
+	text-decoration: underline;
+	text-decoration-color: blueviolet;
+	padding-left: 5%;
+}
+
+h4{
+	color: black;
+	font-size: 25px; 
+	text-decoration: underline;
+	text-decoration-color: black;
+	padding-left: 2%;
+	
+}
+
+#contenu {
+	width:600px;
+	background-color:#FFCC00;
+	margin-left: 2%;
+	
+}
+
+#menu{
+	float: left;
+	background-color: crimson;
+	width:24%;
+	height:1000px;
+}
+
+
+.p1{
+	width: 500px;
+	border: thin;
+	border-color: gold;
+	padding-left: 10%;
+	
+	
+}
+
+.p2{
+	width: 500px;
+	border: thin;
+	border-color: gold;
+	padding-left: 10%;
+}
+
+.p3{
+	width: 500px;
+	border: thin;
+	border-color: gold;
+	padding-left: 10%;
+}
+
+
